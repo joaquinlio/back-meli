@@ -24,12 +24,12 @@ $ npm run dev
 $ npm install
 ```
 
-3 - Buildear solución
+2 - Buildear solución
 ```
 $ npm run compile
 ```
 
-4 - Levantar entorno 
+3 - Levantar entorno 
 ```
 $ npm run server
 ```
