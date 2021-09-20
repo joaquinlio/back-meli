@@ -12,7 +12,7 @@
 $ npm install
 ```
 
-3 - Levantar entorno
+2 - Levantar entorno
 ```
 $ npm run dev
 ```
